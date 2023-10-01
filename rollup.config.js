@@ -1,8 +1,8 @@
 export default {
   input: 'lib/index.js',
   output: {
-    file: 'lib/index.umd.js',
-    format: 'umd',
+    file: 'lib/index.mjs',
+    format: 'esm',
     name: 'VuePropertyDecorator',
     globals: {
       vue: 'Vue',

@@ -1,5 +1,3 @@
-/** vue-property-decorator verson 9.1.2 MIT LICENSE copyright 2020 kaorun343 */
-/// <reference types='reflect-metadata'/>
 import Vue from 'vue'
 import Component, { mixins } from 'vue-class-component'
 

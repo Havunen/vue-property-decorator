@@ -60,7 +60,7 @@ describe(InjectReactive, () => {
 
     @Component
     class ChildComponent extends Vue {
-      @InjectReactive() [propertyName]: string
+      @InjectReactive() [propertyName]!: string
     }
 
     @Component
