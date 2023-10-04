@@ -1,4 +1,4 @@
-import { createDecorator } from 'vue-class-component'
+import { createDecorator } from '@havunen/vue2-class-component'
 import { InjectKey } from 'vue/types/options'
 import { reactiveInjectKey } from '../helpers/provideInject'
 import { InjectOptions } from './Inject'

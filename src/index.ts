@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Component, { mixins } from 'vue-class-component'
+import Component, { mixins } from '@havunen/vue2-class-component'
 
 export { Component, Vue, mixins as Mixins }
 

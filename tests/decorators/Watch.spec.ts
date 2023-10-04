@@ -1,6 +1,6 @@
 import { mount, Wrapper } from '@vue/test-utils'
 import Vue, { CreateElement } from 'vue'
-import Component from 'vue-class-component'
+import Component from '@havunen/vue2-class-component'
 import { Watch } from '../../src/decorators/Watch'
 
 describe(Watch, () => {

@@ -1,6 +1,6 @@
 import 'reflect-metadata'
 import Vue from 'vue'
-import Component from 'vue-class-component'
+import Component from '@havunen/vue2-class-component'
 import { Prop } from '../../src/decorators/Prop'
 
 describe(Prop, () => {

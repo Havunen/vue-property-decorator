@@ -39,15 +39,15 @@ Changelog
 
 # v9.0.0
 
-- Move `vue-class-component` to `peerDependencies`
+- Move `@havunen/vue2-class-component` to `peerDependencies`
 
 # v8.5.1
 
-- Move `vue-class-component` to `dependencies`
+- Move `@havunen/vue2-class-component` to `dependencies`
 
 # v8.5.0
 
 - Revert #299
 - Add CHANGELOG.md
 - Fix README.md (#319)
-- Move `vue-class-component` to `peerDependencies`
+- Move `@havunen/vue2-class-component` to `peerDependencies`

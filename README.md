@@ -8,7 +8,7 @@ This library is no longer actively maintained. If you still want to use classes,
 [![npm](https://img.shields.io/npm/v/vue-property-decorator.svg)](https://www.npmjs.com/package/vue-property-decorator)
 [![Build Status](https://travis-ci.org/kaorun343/vue-property-decorator.svg?branch=master)](https://travis-ci.org/kaorun343/vue-property-decorator)
 
-This library fully depends on [vue-class-component](https://github.com/vuejs/vue-class-component), so please read its README before using this library.
+This library fully depends on [@havunen/vue2-class-component](https://github.com/vuejs/@havunen/vue2-class-component), so please read its README before using this library.
 
 ## License
 
@@ -36,8 +36,8 @@ There are several decorators and 1 function (Mixin):
 - [`@Emit`](#Emit)
 - [`@Ref`](#Ref)
 - [`@VModel`](#VModel)
-- `@Component` (**provided by** [vue-class-component](https://github.com/vuejs/vue-class-component))
-- `Mixins` (the helper function named `mixins` **provided by** [vue-class-component](https://github.com/vuejs/vue-class-component))
+- `@Component` (**provided by** [@havunen/vue2-class-component](https://github.com/vuejs/@havunen/vue2-class-component))
+- `Mixins` (the helper function named `mixins` **provided by** [@havunen/vue2-class-component](https://github.com/vuejs/@havunen/vue2-class-component))
 
 ## See also
 

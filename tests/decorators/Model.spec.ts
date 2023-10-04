@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Component from 'vue-class-component'
+import Component from '@havunen/vue2-class-component'
 import { Model } from '../../src/decorators/Model'
 
 describe(Model, () => {

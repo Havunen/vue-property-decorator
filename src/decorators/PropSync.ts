@@ -1,5 +1,5 @@
 import Vue, { PropOptions } from 'vue'
-import { createDecorator } from 'vue-class-component'
+import { createDecorator } from '@havunen/vue2-class-component'
 import { Constructor } from 'vue/types/options'
 import { applyMetadata } from '../helpers/metadata'
 

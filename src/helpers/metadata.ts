@@ -2,7 +2,7 @@
 import Vue, { PropOptions } from 'vue'
 import { Constructor } from 'vue/types/options'
 
-/** @see {@link https://github.com/vuejs/vue-class-component/blob/master/src/reflect.ts} */
+/** @see {@link https://github.com/vuejs/@havunen/vue2-class-component/blob/master/src/reflect.ts} */
 const reflectMetadataIsSupported =
   typeof Reflect !== 'undefined' && typeof Reflect.getMetadata !== 'undefined'
 

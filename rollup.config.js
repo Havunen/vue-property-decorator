@@ -6,9 +6,9 @@ export default {
     name: 'VuePropertyDecorator',
     globals: {
       vue: 'Vue',
-      'vue-class-component': 'VueClassComponent',
+      '@havunen/vue2-class-component': 'VueClassComponent',
     },
     exports: 'named',
   },
-  external: ['vue', 'vue-class-component', 'reflect-metadata'],
+  external: ['vue', '@havunen/vue2-class-component', 'reflect-metadata'],
 }

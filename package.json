@@ -1,8 +1,8 @@
 {
-  "name": "vue-property-decorator",
-  "version": "9.1.2",
+  "name": "@havunen/vue-property-decorator",
+  "version": "9.2.0",
   "description": "property decorators for Vue Component",
-  "main": "lib/index.mjs",
+  "exports": "./lib/index.mjs",
   "module": "lib/index.mjs",
   "type": "module",
   "keywords": [
@@ -35,14 +35,14 @@
     "ts-jest": "^29.1.1",
     "typescript": "^5.2.2",
     "vue": "^2.7.14",
-    "vue-class-component": "^7.2.6",
+    "@havunen/vue2-class-component": "^7.3.0",
     "vue-template-compiler": "^2.7.14"
   },
   "typings": "./lib/index.d.ts",
   "dependencies": {},
   "peerDependencies": {
     "vue": "*",
-    "vue-class-component": "*"
+    "@havunen/vue2-class-component": "*"
   },
   "repository": {
     "type": "git",

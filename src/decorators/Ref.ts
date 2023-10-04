@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import { createDecorator } from 'vue-class-component'
+import { createDecorator } from '@havunen/vue2-class-component'
 
 /**
  * decorator of a ref prop

@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Component from 'vue-class-component'
+import Component from '@havunen/vue2-class-component'
 import { InjectReactive } from '../../src/decorators/InjectReactive'
 import { ProvideReactive } from '../../src/decorators/ProvideReactive'
 
