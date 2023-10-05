@@ -1,6 +1,6 @@
 {
   "name": "@havunen/vue-property-decorator",
-  "version": "9.2.0",
+  "version": "9.2.1",
   "description": "property decorators for Vue Component",
   "exports": "./lib/index.mjs",
   "module": "lib/index.mjs",
